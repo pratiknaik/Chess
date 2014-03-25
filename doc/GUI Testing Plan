@@ -1,0 +1,9 @@
+GUI Testing Plan
+
+1) Use the Standard Board class to create a standard board with squares.
+2) Run the Game.java file to check if the squares on the board are correctly drawn and have no pieces on them.
+3) Testing pieces on the board.
+	3.1) You can call populateBoardWithPieces() in Game.java which will set up a standard chess game with all
+		 the necessary pieces. Run Game.java again to check if the pieces are in the proper places originally.
+	3.2) You can create any pieces that you want on the board at your specified positions and then run Game.java
+		 to check if the pieces are drawn in their proper places. 
